@@ -25,7 +25,7 @@ const setTitle = (id, text) => {
  * Agrega una nueva fila a una tabla HTML con los datos proporcionados.
  *
  * @param {Object} data - Un objeto que contiene los datos del framework.
- * @param {string} idBodyTable - El ID del cuerpo de la tabla donde se agregará la fila.
+ * @param {string} idBs (index.html, src/file01.js y src/odyTable - El ID del cuerpo de la tabla donde se agregará la fila.
  * @returns {void}
  * @example
  * // Supongamos que tenemos un objeto con los datos del framework
